@@ -1,2 +1,5 @@
 # Teeth-Segmentation
-The goal of the project is semantic and instance segmentation of teeth. The repository contains notebooks having the code for training and inference of a 2D Unet model. 
+The proposed model architecture can be seen as: 
+![Model](overall_network (2).png) <br />
+And the results can be seen as:
+![Results](Result.png) <br />
